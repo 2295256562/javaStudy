@@ -20,6 +20,5 @@ public class ThreadCommunication {
         new SaveThread(account, "亲爹").start();
         new SaveThread(account, "干爹").start();
         new SaveThread(account, "岳父").start();
-
     }
 }
