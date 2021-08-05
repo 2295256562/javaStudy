@@ -4,22 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b22c365-c330-4ffd-8344-42e0ce8307c4" name="Default Changelist" comment="add：多线程基础">
-      <change afterPath="$PROJECT_DIR$/Day08Demo/src/com/kuang/_02线程池/ThreadPoolsDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day08Demo/src/com/kuang/_02线程池/ThreadPoolsDemo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day08Demo/src/com/kuang/_02线程池/ThreadPoolsDemo03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day08Demo/src/com/kuang/_03死锁/ThreadDead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day08Demo/src/com/kuang/_04Volatile关键字概述/VolatileDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day08Demo/src/com/kuang/_05变量不可见性解决/VolatileDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day08Demo/src/com/kuang/_06原子性/VolatileActomicDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day08Demo/src/com/kuang/_06原子性/VolatileActomicDemo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day08Demo/src/com/kuang/_06原子性/VolatileActomicDemo03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="1b22c365-c330-4ffd-8344-42e0ce8307c4" name="Default Changelist" comment="add：多线程线程安全">
+      <change afterPath="$PROJECT_DIR$/Day08Demo/src/com/kuang/_07并发包_ConcurrentHashMap/ConcurrentHashMapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day08Demo/src/com/kuang/_08并发包_CountDownLatch/CountDownLatchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day08Demo/src/com/kuang/_09并发包_CyclicBarrier/CyclicBarrierDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day08Demo/src/com/kuang/_10并发包_Semaphore/SemaphoreDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day08Demo/src/com/kuang/_11并发包_Exchanger/ExchangerDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day08Demo/src/com/kuang/_01线程通信/ThreadCommunication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day08Demo/src/com/kuang/_01线程通信/ThreadCommunication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Day08Demo/com/kuang/_01线程通信/ThreadCommunication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Day08Demo/com/kuang/_01线程通信/ThreadCommunication.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,13 +82,13 @@
       <recent name="E:\Python代码\javaStudy\Day06Demo\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.VolatileActomicDemo03">
-    <configuration name="ThreadDead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kuang._03死锁.ThreadDead" />
+  <component name="RunManager" selected="Application.ExchangerDemo">
+    <configuration name="ConcurrentHashMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kuang._07并发包_ConcurrentHashMap.ConcurrentHashMapDemo" />
       <module name="Day08Demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kuang._03死锁.*" />
+          <option name="PATTERN" value="com.kuang._07并发包_ConcurrentHashMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ViabilityDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kuang._05变量不可见性解决.ViabilityDemo" />
+    <configuration name="CountDownLatchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kuang._08并发包_CountDownLatch.CountDownLatchDemo" />
       <module name="Day08Demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kuang._05变量不可见性解决.*" />
+          <option name="PATTERN" value="com.kuang._08并发包_CountDownLatch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ViabilityDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kuang._04Volatile关键字概述.ViabilityDemo" />
+    <configuration name="CyclicBarrierDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kuang._09并发包_CyclicBarrier.CyclicBarrierDemo" />
       <module name="Day08Demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kuang._04Volatile关键字概述.*" />
+          <option name="PATTERN" value="com.kuang._09并发包_CyclicBarrier.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VolatileActomicDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kuang._06原子性.VolatileActomicDemo01" />
+    <configuration name="ExchangerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kuang._11并发包_Exchanger.ExchangerDemo" />
       <module name="Day08Demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kuang._06原子性.*" />
+          <option name="PATTERN" value="com.kuang._11并发包_Exchanger.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VolatileActomicDemo03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kuang._06原子性.VolatileActomicDemo03" />
+    <configuration name="SemaphoreDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kuang._10并发包_Semaphore.SemaphoreDemo" />
       <module name="Day08Demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kuang._06原子性.*" />
+          <option name="PATTERN" value="com.kuang._10并发包_Semaphore.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,26 +148,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.VolatileActomicDemo03" />
-        <item itemvalue="Application.VolatileActomicDemo01" />
-        <item itemvalue="Application.ViabilityDemo (1)" />
-        <item itemvalue="Application.ViabilityDemo" />
-        <item itemvalue="Application.ThreadDead" />
+        <item itemvalue="Application.ExchangerDemo" />
+        <item itemvalue="Application.SemaphoreDemo" />
+        <item itemvalue="Application.CyclicBarrierDemo" />
+        <item itemvalue="Application.CountDownLatchDemo" />
+        <item itemvalue="Application.ConcurrentHashMapDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +192,8 @@
       <workItem from="1627904636191" duration="10958000" />
       <workItem from="1627988067060" duration="2805000" />
       <workItem from="1627994765425" duration="6308000" />
-      <workItem from="1628077272254" duration="9232000" />
+      <workItem from="1628077272254" duration="9258000" />
+      <workItem from="1628163248066" duration="9003000" />
     </task>
     <task id="LOCAL-00001" summary="集合">
       <created>1619352845993</created>
@@ -233,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628001238729</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add：多线程线程安全">
+      <created>1628088479027</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1628088479027</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,7 +253,8 @@
     <MESSAGE value="add：多线程" />
     <MESSAGE value="add：多线程通信" />
     <MESSAGE value="add：多线程基础" />
-    <option name="LAST_COMMIT_MESSAGE" value="add：多线程基础" />
+    <MESSAGE value="add：多线程线程安全" />
+    <option name="LAST_COMMIT_MESSAGE" value="add：多线程线程安全" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
