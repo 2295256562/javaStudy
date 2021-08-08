@@ -3,28 +3,67 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b22c365-c330-4ffd-8344-42e0ce8307c4" name="Default Changelist" comment="add：多线程线程安全">
-      <change afterPath="$PROJECT_DIR$/Day08Demo/src/com/kuang/_01线程通信/Demo.java" afterDir="false" />
+    <list default="true" id="1b22c365-c330-4ffd-8344-42e0ce8307c4" name="Default Changelist" comment="add：并发包">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09Demo/Day09Demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09Demo/src/com/kuang/_01Lambda表达式的概述/LambdaDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09Demo/src/com/kuang/_02Lambda表达式简化Runnable接口匿名内部类/LambdaDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09Demo/src/com/kuang/_05方法引用的概述/MethodDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09Demo/src/com/kuang/_10Stream流概述/StreamDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09Demo/src/com/kuang/_11Stream流的获取/StreamDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09Demo/src/com/kuang/_12Stream流的常用API/StreamDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09Demo/src/com/kuang/_12Stream流的常用API/StreamDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09Demo/src/com/kuang/_12Stream流的常用API/StreamDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09Demo/src/com/kuang/_12Stream流的常用API/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09Demo/src/com/kuang/_13Stream流的终结与非终结方法/StreamDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09Demo/src/com/kuang/_14收集Stream流/StreamDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09Demo/src/com/kuang/_15File类的概述/FileDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09Demo/src/com/kuang/_16File类的获取功能的方法/FileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09Demo/src/com/kuang/_17File类的判断功能的方法/FileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09Demo/src/com/kuang/_18File类的创建和删除的方法/FileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09Demo/src/com/kuang/_19File目录的遍历/FileDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09Demo/src/com/kuang/_20递归的概述和应用理论/RecursionDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09Demo/src/com/kuang/_20递归的概述和应用理论/RecursionDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09Demo/src/com/kuang/_20递归的概述和应用理论/RecursionDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09Demo/src/com/kuang/_20递归的概述和应用理论/RecursionDemo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09Demo/src/com/kuang/_20递归的概述和应用理论/RecursionDemo05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09Demo/src/com/kuang/_22字符集/CharsetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09Demo/src/com/kuang/_23IO流的概述和分类/IODemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09Demo/src/com/kuang/_24字节流的使用/FileInputStreamDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09Demo/src/com/kuang/_24字节流的使用/FileInputStreamDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09Demo/src/com/kuang/_24字节流的使用/FileInputStreamDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09Demo/src/com/kuang/_24字节流的使用/OutputStreamDemo04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09Demo/src/com/kuang/_25字节流做文件复制/CopyDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09Demo/src/com/kuang/_25字节流做文件复制/CopyDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09Demo/src/copy.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09Demo/src/dlei01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day09Demo/src/dlei02.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day10Demo/Day10Demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day10Demo/src/com/kuang/_00字符流的使用/FileReaderDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day10Demo/src/com/kuang/_00字符流的使用/FileReaderDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day10Demo/src/com/kuang/_00字符流的使用/FileWriterDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day10Demo/src/com/kuang/_01缓冲流的概述和分类/BufferedStreamDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day10Demo/src/com/kuang/_02字节缓冲流/BufferedInputStreamDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day10Demo/src/com/kuang/_02字节缓冲流/BufferedInputStreamDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day10Demo/src/com/kuang/_03字符缓冲流/BufferedReaderDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day10Demo/src/com/kuang/_03字符缓冲流/BufferedWriterDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day10Demo/src/com/kuang/_03字符缓冲流/ExecDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day10Demo/src/com/kuang/_04转换流/InputStreamReaderDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day10Demo/src/com/kuang/_05打印流/PrintStreamDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day10Demo/src/com/kuang/_05打印流/PrintStreamDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day10Demo/src/dlei01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day10Demo/src/dlei02.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day10Demo/src/dlei03.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day10Demo/src/dlei04.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day10Demo/src/dlei05.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day10Demo/src/dlei06.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day10Demo/src/log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day11Demo/Day11Demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day11Demo/src/com/kuang/_00编程思维题目/BeerDemo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day07Demo/src/com/kuang/_04线程的创建_方式3/ThreadDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day07Demo/src/com/kuang/_04线程的创建_方式3/ThreadDemo1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,10 +101,13 @@
   </component>
   <component name="ProjectViewState">
     <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -84,10 +126,6 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="settings.editor.splitter.proportion" value="0.2446458" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RebelAgentSelection">
-    <selection>jr</selection>
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -99,14 +137,17 @@
       <recent name="E:\Python代码\javaStudy\Day07Demo\src" />
       <recent name="E:\Python代码\javaStudy\Day06Demo\src" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kuang._17File类的判断功能的方法" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Demo">
-    <configuration name="CountDownLatchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kuang._08并发包_CountDownLatch.CountDownLatchDemo" />
-      <module name="Day08Demo" />
+  <component name="RunManager" selected="Application.BeerDemo01">
+    <configuration name="BeerDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kuang._00编程思维题目.BeerDemo01" />
+      <module name="Day11Demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kuang._08并发包_CountDownLatch.*" />
+          <option name="PATTERN" value="com.kuang._00编程思维题目.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CyclicBarrierDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kuang._09并发包_CyclicBarrier.CyclicBarrierDemo" />
-      <module name="Day08Demo" />
+    <configuration name="BufferedReaderDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kuang._03字符缓冲流.BufferedReaderDemo01" />
+      <module name="Day10Demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kuang._09并发包_CyclicBarrier.*" />
+          <option name="PATTERN" value="com.kuang._03字符缓冲流.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +168,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kuang._01线程通信.Demo" />
-      <module name="Day08Demo" />
+    <configuration name="BufferedWriterDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kuang._03字符缓冲流.BufferedWriterDemo02" />
+      <module name="Day10Demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kuang._01线程通信.*" />
+          <option name="PATTERN" value="com.kuang._03字符缓冲流.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +181,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExchangerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kuang._11并发包_Exchanger.ExchangerDemo" />
-      <module name="Day08Demo" />
+    <configuration name="PrintStreamDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kuang._05打印流.PrintStreamDemo01" />
+      <module name="Day10Demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kuang._11并发包_Exchanger.*" />
+          <option name="PATTERN" value="com.kuang._05打印流.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,12 +194,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SemaphoreDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kuang._10并发包_Semaphore.SemaphoreDemo" />
-      <module name="Day08Demo" />
+    <configuration name="PrintStreamDemo02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kuang._05打印流.PrintStreamDemo02" />
+      <module name="Day10Demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kuang._10并发包_Semaphore.*" />
+          <option name="PATTERN" value="com.kuang._05打印流.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,11 +222,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.ExchangerDemo" />
-        <item itemvalue="Application.SemaphoreDemo" />
-        <item itemvalue="Application.CyclicBarrierDemo" />
-        <item itemvalue="Application.CountDownLatchDemo" />
+        <item itemvalue="Application.BeerDemo01" />
+        <item itemvalue="Application.PrintStreamDemo01" />
+        <item itemvalue="Application.PrintStreamDemo02" />
+        <item itemvalue="Application.BufferedWriterDemo02" />
+        <item itemvalue="Application.BufferedReaderDemo01" />
       </list>
     </recent_temporary>
   </component>
@@ -214,7 +255,9 @@
       <workItem from="1627994765425" duration="6308000" />
       <workItem from="1628077272254" duration="9258000" />
       <workItem from="1628163248066" duration="9003000" />
-      <workItem from="1628218139364" duration="5091000" />
+      <workItem from="1628297254475" duration="8124000" />
+      <workItem from="1628329086766" duration="10416000" />
+      <workItem from="1628397949406" duration="21141000" />
     </task>
     <task id="LOCAL-00001" summary="集合">
       <created>1619352845993</created>
@@ -270,40 +313,13 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="集合" />
     <MESSAGE value="add：多线程" />
     <MESSAGE value="add：多线程通信" />
     <MESSAGE value="add：多线程基础" />
     <MESSAGE value="add：多线程线程安全" />
     <option name="LAST_COMMIT_MESSAGE" value="add：多线程线程安全" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="532" y="162" key="#com.intellij.ide.util.MemberChooser" timestamp="1628239428176">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="532" y="162" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/-1920.-454.1920.1080@0.0.1440.900" timestamp="1628239428176" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1628240579356">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.-454.1920.1080@0.0.1440.900" timestamp="1628240579356" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1628240579355">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900/-1920.-454.1920.1080@0.0.1440.900" timestamp="1628240579355" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1628240579354">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900/-1920.-454.1920.1080@0.0.1440.900" timestamp="1628240579354" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1628240579355">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900/-1920.-454.1920.1080@0.0.1440.900" timestamp="1628240579355" />
-    <state x="314" y="106" width="900" height="722" key="SettingsEditor" timestamp="1628235455527">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="314" y="106" key="SettingsEditor/0.0.1440.900/-1920.-454.1920.1080@0.0.1440.900" timestamp="1628235455527" />
-    <state x="-1136" y="-236" key="SettingsEditor/0.23.1440.820/-1920.-431.1920.1057@-1920.-431.1920.1057" timestamp="1628220296063" />
-    <state x="314" y="120" width="900" height="722" key="SettingsEditor/0.23.1440.820@0.23.1440.820" timestamp="1628229051383" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -332,6 +348,11 @@
           <url>file://$PROJECT_DIR$/Day07Demo/src/com/kuang/_06线程同步_同步代码块/Account.java</url>
           <line>21</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Day09Demo/src/com/kuang/_13Stream流的终结与非终结方法/StreamDemo01.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
