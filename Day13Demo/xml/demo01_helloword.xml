@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Person>
+    <name id="100">王熙凤</name>
+    <age>29</age>
+    <sex>女</sex>
+    <work>
+        <do>扫地</do>
+        <look>看电影</look>
+    </work>
+</Person>
