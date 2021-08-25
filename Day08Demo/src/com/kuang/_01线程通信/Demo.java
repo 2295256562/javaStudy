@@ -15,7 +15,7 @@ public class Demo {
                 synchronized (object) {
                     for (int i = 1; i <= 10; i += 2) {
                         System.out.println("打印奇数" + i);
-                        System.out.println("打印奇数" + (i += 1));
+                        // System.out.println("打印奇数" + (i += 1));
                         object.notifyAll();
                         try {
                             object.wait();

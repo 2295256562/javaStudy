@@ -22,11 +22,21 @@ package com.kuang._10枚举;
 public class EnumDemo01 {
     public static void main(String[] args) {
         Sex S1 = Sex.BOY;
-        System.out.println(S1);
+        System.out.println(S1.getName());
     }
 }
 
 
 enum Sex {
-    BOY, GIRL
+    BOY("男孩"), GIRL("女孩");
+
+    private String name;
+
+    private Sex(String name) {
+        this.name = name;
+    }
+
+    public String getName() {
+        return name;
+    }
 }

@@ -10,12 +10,6 @@ public class Account {
     // 创建一把锁对象: 因为账户对于小明和小红是唯一的，所以这里的锁对象对应小明小红也是唯一的一把锁
     private final Lock lock = new ReentrantLock();
 
-
-    public Account(String cardId, double money) {
-        this.cardId = cardId;
-        this.money = money;
-    }
-
     /**
      * 取钱
      *
@@ -45,6 +39,11 @@ public class Account {
         } finally {
             lock.unlock();  // 解锁~~
         }
+    }
+
+    public Account(String cardId, double money) {
+        this.cardId = cardId;
+        this.money = money;
     }
 
     public String getCardId() {

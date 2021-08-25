@@ -31,7 +31,6 @@ public class Account {
                 System.out.println(name + "来取钱，余额不足");
             }
         }
-
     }
 
     public String getCardId() {

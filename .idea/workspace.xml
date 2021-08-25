@@ -4,19 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b22c365-c330-4ffd-8344-42e0ce8307c4" name="Default Changelist" comment="add：网络编程">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/dom4j_2_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day11Demo/src/com/kuang/_11基本通信模型介绍/NioDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day13Demo/Day13Demo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day13Demo/dom4j-2.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day13Demo/src/com/kuang/_01Dom4j解析XML文档根元素/Dom4jDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day13Demo/src/com/kuang/_02Dom4j解析XML的子元素/Dom4jDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day13Demo/src/com/kuang/_03Dom4j解析XML的属性/Dom4jDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day13Demo/src/com/kuang/_04Dom4j解析XML的文本/Dom4jDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day13Demo/src/com/kuang/_05Dom4j解析案例/Dom4jDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day13Demo/xml/demo01_helloword.xml" afterDir="false" />
+    <list default="true" id="1b22c365-c330-4ffd-8344-42e0ce8307c4" name="Default Changelist" comment="add：dom4j操作">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_11_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_4_1_39_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day12Demo/Day12Demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day12Demo/src/com/kuang/utils/ReflectUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day13Demo/LeetCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/name.jmx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/name.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/to.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day02Demo/src/com/kuang/_10枚举/EnumDemo01.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day02Demo/src/com/kuang/_10枚举/EnumDemo01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day07Demo/src/com/kuang/_05线程安全/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day07Demo/src/com/kuang/_05线程安全/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day07Demo/src/com/kuang/_06线程同步_同步代码块/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day07Demo/src/com/kuang/_06线程同步_同步代码块/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day07Demo/src/com/kuang/_08线程同步_Lock锁/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day07Demo/src/com/kuang/_08线程同步_Lock锁/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day08Demo/src/com/kuang/_01线程通信/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day08Demo/src/com/kuang/_01线程通信/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day13Demo/src/com/kuang/_05Dom4j解析案例/Dom4jDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day13Demo/src/com/kuang/_05Dom4j解析案例/Dom4jDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day02Demo/com/kuang/_10枚举/EnumDemo01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Day02Demo/com/kuang/_10枚举/EnumDemo01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Day02Demo/com/kuang/_10枚举/Sex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Day02Demo/com/kuang/_10枚举/Sex.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,10 +69,8 @@
   </component>
   <component name="ProjectViewState">
     <option name="foldersAlwaysOnTop" value="false" />
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
-    <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
@@ -67,95 +80,87 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Day11Demo/src/com/kuang/_07TCP通信方式四" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../netty-demo/src/main/resources" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="settings.editor.splitter.proportion" value="0.2446458" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Python代码\netty-demo\src\main\resources" />
       <recent name="E:\Python代码\javaStudy\Day11Demo\src\com\kuang\_07TCP通信方式四" />
       <recent name="E:\Python代码\javaStudy\Day08Demo\src\com\kuang\_05变量不可见性解决" />
       <recent name="E:\Python代码\Day07Demo\src\main\java\com\kuang\_08线程同步_Lock锁" />
       <recent name="E:\Python代码\Day07Demo\src\main\java\com\kuang\_07线程同步_同步方法" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Python代码\netty-demo" />
       <recent name="E:\Python代码\javaStudy\Day13Demo\src\com\kuang\_01Dom4j解析XML文档根元素" />
       <recent name="E:\Python代码\javaStudy\Day13Demo" />
       <recent name="E:\Python代码\javaStudy\Day07Demo\src" />
       <recent name="E:\Python代码\javaStudy\Day06Demo\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kuang.netty.c2" />
       <recent name="com.kuang._17File类的判断功能的方法" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Dom4jDemo (3)">
-    <configuration name="ClientDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kuang._05TCP通信方式二.ClientDemo01" />
-      <module name="Day11Demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kuang._05TCP通信方式二.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Dom4jDemo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kuang._02Dom4j解析XML的子元素.Dom4jDemo" />
-      <module name="Day13Demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kuang._02Dom4j解析XML的子元素.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Dom4jDemo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kuang._03Dom4j解析XML的属性.Dom4jDemo" />
-      <module name="Day13Demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kuang._03Dom4j解析XML的属性.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Dom4jDemo (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kuang._04Dom4j解析XML的文本.Dom4jDemo" />
-      <module name="Day13Demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.kuang._04Dom4j解析XML的文本.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Dom4jDemo">
     <configuration name="Dom4jDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.kuang._01Dom4j解析XML文档根元素.Dom4jDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.kuang._05Dom4j解析案例.Dom4jDemo" />
       <module name="Day13Demo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.kuang._01Dom4j解析XML文档根元素.*" />
+          <option name="PATTERN" value="com.kuang._05Dom4j解析案例.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EnumDemo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kuang._10枚举.EnumDemo01" />
+      <module name="Day02Demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kuang._10枚举.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorldClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kuang.netty.c4.HelloWorldClient" />
+      <module name="netty-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kuang.netty.c4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestHttp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kuang.netty.c4.TestHttp" />
+      <module name="netty-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kuang.netty.c4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,26 +181,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+    <configuration name="demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kuang.demo" />
+      <module name="netty-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kuang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.UDPClientDemo01" />
+      <item itemvalue="Application.HelloWorldClient" />
+      <item itemvalue="Application.TestHttp" />
+      <item itemvalue="Application.demo" />
+      <item itemvalue="Application.EnumDemo01" />
+      <item itemvalue="Application.Dom4jDemo" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Dom4jDemo (3)" />
-        <item itemvalue="Application.Dom4jDemo (2)" />
-        <item itemvalue="Application.Dom4jDemo (1)" />
         <item itemvalue="Application.Dom4jDemo" />
-        <item itemvalue="Application.ClientDemo01" />
+        <item itemvalue="Application.EnumDemo01" />
+        <item itemvalue="Application.demo" />
+        <item itemvalue="Application.TestHttp" />
+        <item itemvalue="Application.HelloWorldClient" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +241,26 @@
       <workItem from="1628329086766" duration="10416000" />
       <workItem from="1628397949406" duration="21315000" />
       <workItem from="1628594204024" duration="11090000" />
-      <workItem from="1628680679029" duration="8751000" />
+      <workItem from="1628680679029" duration="8812000" />
+      <workItem from="1628771132381" duration="510000" />
+      <workItem from="1628771658882" duration="10000" />
+      <workItem from="1628771682382" duration="7306000" />
+      <workItem from="1628779042352" duration="1356000" />
+      <workItem from="1628856456627" duration="5416000" />
+      <workItem from="1628861932866" duration="52000" />
+      <workItem from="1628862001140" duration="168000" />
+      <workItem from="1628862211233" duration="4574000" />
+      <workItem from="1628903858444" duration="11681000" />
+      <workItem from="1628926122039" duration="4246000" />
+      <workItem from="1628942469180" duration="1620000" />
+      <workItem from="1628995594185" duration="20310000" />
+      <workItem from="1629119038837" duration="1987000" />
+      <workItem from="1629121328843" duration="4275000" />
+      <workItem from="1629202272988" duration="9258000" />
+      <workItem from="1629334998846" duration="1843000" />
+      <workItem from="1629384864562" duration="1277000" />
+      <workItem from="1629460976991" duration="11173000" />
+      <workItem from="1629549290720" duration="810000" />
     </task>
     <task id="LOCAL-00001" summary="集合">
       <created>1619352845993</created>
@@ -279,7 +311,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628607391586</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add：dom4j操作">
+      <created>1628694956806</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1628694956806</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -306,7 +345,8 @@
     <MESSAGE value="add：多线程线程安全" />
     <MESSAGE value="add：io操作" />
     <MESSAGE value="add：网络编程" />
-    <option name="LAST_COMMIT_MESSAGE" value="add：网络编程" />
+    <MESSAGE value="add：dom4j操作" />
+    <option name="LAST_COMMIT_MESSAGE" value="add：dom4j操作" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -332,20 +372,43 @@
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Day07Demo/src/com/kuang/_06线程同步_同步代码块/Account.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/Day09Demo/src/com/kuang/_13Stream流的终结与非终结方法/StreamDemo01.java</url>
           <line>11</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../netty-demo/src/test/java/com/kuang/nio/c3/TestScatteringReads.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../netty-demo/src/test/java/com/kuang/nio/c4/ClientDemo01.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../netty-demo/src/test/java/com/kuang/nio/c4/MultiThreadServer.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/../netty-demo/src/test/java/com/kuang/netty/c4/TestHttp.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/../netty-demo/src/test/java/com/kuang/demo.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="22" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="org.dom4j.DocumentException" package="org.dom4j" />
           <option name="timeStamp" value="13" />
         </breakpoint>
       </breakpoints>
+      <breakpoints-defaults>
+        <breakpoint suspend="THREAD" type="java-line" />
+      </breakpoints-defaults>
     </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
